@@ -1,5 +1,5 @@
 === Employee Attendance Manager ===
-Contributors: hubator
+Contributors: Papan Sutradhar (Voxpher)
 Tags: attendance, employee, hr, timesheet, clock-in
 Requires at least: 6.0
 Tested up to: 7.0
